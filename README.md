@@ -1,2 +1,2 @@
-# Calculator
+# Calculator ➕ 
 Java GUI calculator
